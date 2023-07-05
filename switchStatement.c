@@ -17,6 +17,6 @@ int main() {
         printf("You chose option 3.\n");
         break;
         default:
-        printf("Invalid choice.\n");
+        printf("Invalid choie.\n");
     }
 }
